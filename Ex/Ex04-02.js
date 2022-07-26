@@ -3,4 +3,9 @@ var userId = 1;
 var userName = 'Lee';
 
 //객체나 배열 같은 자료구조를 사용하면 여러 개의 값을 하나로 그룹화해서 하나의 값처럼 사용할 수 있음
-var user = 
+var user = {id: 1, name: 'Lee'};
+
+var users = [
+    {id: 1, name: 'Lee'},
+    {id: 2, name: 'Kim'}
+];
