@@ -1,0 +1,1 @@
+var result = 10 + 20; // result 변수에 30저장
